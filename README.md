@@ -29,10 +29,10 @@ Finally, simple rectangular fuzzy patches are generated.
 
 ## Original Paper
 You can find more information about the practical experiments and datasets in the following conference paper:
-@inproceedings{shalaginov2019meml,
-  title={MEML: Resource-aware MQTT-based Machine Learning for Network Attacks Detection on IoT Edge Devices},
-  author={Shalaginov, Andrii and Semeniuta, Oleksandr and Alazab, Mamoun},
-  booktitle={Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing Companion},
-  pages={123--128},
-  year={2019}
-}
+	@inproceedings{shalaginov2019meml,
+		title={MEML: Resource-aware MQTT-based Machine Learning for Network Attacks Detection on IoT Edge Devices},
+		author={Shalaginov, Andrii and Semeniuta, Oleksandr and Alazab, Mamoun},
+		booktitle={Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing Companion},
+		pages={123--128},
+		year={2019}
+	}
